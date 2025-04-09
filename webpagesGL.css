@@ -1,19 +1,23 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
- *Assignment: [Assignment Name]
- *Description: [Assignment Description]
+ *Name: Callie Masella
+ *UnityID: cedompie
+ *Date: April 9
+ *Assignment: Guided Lab 4
+ *Description: Guided Lab assignment about me webpage
  */
  
 p {
-    property: value;
+    Font-family: Times;
+    Font-size: 16px;
+    color:#decaff;
 }
 
-.class {
-    property: value;
+.table-boarder {
+    border: 1px solid #decaff;
 }
 
-#id {
-    property:value;
-}
+#photo-resize {
+
+    max-width:250px;
+    max-height: 300px;
+} 
